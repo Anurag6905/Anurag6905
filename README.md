@@ -30,7 +30,10 @@ Hi, I'm Anurag👋
 ⚡Design
 
 <img src="canva-removebg-preview.png" width="40">
-<img src="django-removebg-preview.png" width="40">
+<img src="photoshop.jpg" width="40">
+<img src="figma.png" width="40">
+
+
 
 
 
