@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Anurag👋
 
-<!--
-**Anurag6905/Anurag6905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning React.js, Node.js, and Django REST Framework.
 
-Here are some ideas to get you started:
+🚀 I’m building The Catalyst Project, a mentorship platform for JEE aspirants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I'm part of IIT Bombay Racing and a Web Convenor at ITC, IIT Bombay.
+
+💬 Ask me about Web Development, React, Node.js, and Photography.
+
+📫 How to reach me: [anuragdesai2019@gmail.com]
+
+
+
+
