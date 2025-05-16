@@ -43,7 +43,7 @@ Hi, I'm Anurag👋
 
 <h3 font-weight="800">📊 Git hub Stats </h3>
 
-![Anuuu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Anuuu's GitHub Stats](https://github-readme-stats.vercel.app/api?Anurag6905&show_icons=true&theme=radical)
 
 
 
