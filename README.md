@@ -16,7 +16,7 @@ Hi, I'm Anurag👋
 <a href="https://www.instagram.com/anurag.desai.695/?hl=en" target="_blank"><img src="instapencil-removebg-preview.png" width="40"></a>
 <a href="https://in.pinterest.com/anuragdesai2019/photography/" target="_blank"><img src="pinterest-removebg-preview.png" width="40"/></a>
 
-Programing Languages 
+💻 Programing Languages 
 
 <img src="" width="40">
 <img src="" width="40">
