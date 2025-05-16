@@ -16,14 +16,21 @@ Hi, I'm Anurag👋
 <a href="https://www.instagram.com/anurag.desai.695/?hl=en" target="_blank"><img src="instapencil-removebg-preview.png" width="40"></a>
 <a href="https://in.pinterest.com/anuragdesai2019/photography/" target="_blank"><img src="pinterest-removebg-preview.png" width="40"/></a>
 
-💻 Programing Languages 
+💻 Front End 
 
-<img src="" width="40">
-<img src="" width="40">
-<img src="" width="40">
-<img src="" width="40">
-<img src="" width="40">
+<img src="react.png" width="40">
+<img src="js1.png" width="40">
+<img src="css-removebg-preview.png" width="40">
 
+🖥️ Back End 
+
+<img src="django-removebg-preview.png" width="40">
+<img src="python.png" width="40">
+
+⚡Design
+
+<img src="canva-removebg-preview.png" width="40">
+<img src="django-removebg-preview.png" width="40">
 
 
 
