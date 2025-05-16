@@ -10,11 +10,15 @@ Hi, I'm Anurag👋
 
 📫 How to reach me: [anuragdesai2019@gmail.com]
 
+<br>
+
 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/anurag-desai-a37a35333/?trk=PROFILE_DROP_DOWN" target="_blank"><img src="Linkedinpencil-removebg-preview.png" width="40"/></a>
 <a href="https://www.instagram.com/anurag.desai.695/?hl=en" target="_blank"><img src="instapencil-removebg-preview.png" width="40"></a>
 <a href="https://in.pinterest.com/anuragdesai2019/photography/" target="_blank"><img src="pinterest-removebg-preview.png" width="40"/></a>
+
+<br>
 
 💻 Front End 
 
@@ -22,10 +26,14 @@ Hi, I'm Anurag👋
 <img src="js1.png" width="40"></img>
 <img src="css-removebg-preview.png" width="40"></img>
 
+<br>
+
 🖥️ Back End 
 
 <img src="django-removebg-preview.png" width="40"></img>
 <img src="python.png" width="40"></img>
+
+<br>
 
 ⚡Design
 
