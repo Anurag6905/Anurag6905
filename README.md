@@ -45,8 +45,25 @@ Hi, I'm Anurag👋
 
 <h3 font-weight="800">📊 Git hub Stats </h3>
 
-### 📊 GitHub Stats
 ![Anurag6905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag6905&show_icons=true&theme=radical)
+
+<br>
+
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag6905&layout=compact&theme=radical)
+
+<br>
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anurag6905&theme=radical)
+
+<br>
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Anurag6905&color=blueviolet)
+
+
+
 
 
 
