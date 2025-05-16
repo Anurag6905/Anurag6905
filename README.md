@@ -18,20 +18,20 @@ Hi, I'm Anurag👋
 
 💻 Front End 
 
-<img src="react.png" width="40">
-<img src="js1.png" width="40">
-<img src="css-removebg-preview.png" width="40">
+<img src="react.png" width="40"></img>
+<img src="js1.png" width="40"></img>
+<img src="css-removebg-preview.png" width="40"></img>
 
 🖥️ Back End 
 
-<img src="django-removebg-preview.png" width="40">
-<img src="python.png" width="40">
+<img src="django-removebg-preview.png" width="40"></img>
+<img src="python.png" width="40"></img>
 
 ⚡Design
 
-<img src="canva-removebg-preview.png" width="40">
-<img src="photoshop.jpg" width="40">
-<img src="figma.png" width="40">
+<img src="canva-removebg-preview.png" width="40"></img>
+<img src="photoshop.jpg" width="40"></img>
+<img src="figma.png" width="40"></img>
 
 
 
