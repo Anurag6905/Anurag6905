@@ -41,9 +41,13 @@ Hi, I'm Anurag👋
 <img src="photoshop.jpg" width="40"></img>
 <img src="figma.png" width="40"></img>
 
+<br>
+
 <h3 font-weight="800">📊 Git hub Stats </h3>
 
-![Anuuu's GitHub Stats](https://github-readme-stats.vercel.app/api?Anurag6905&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+![Anurag6905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag6905&show_icons=true&theme=radical)
+
 
 
 
