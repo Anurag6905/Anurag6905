@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anurag-desai.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f1110?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://anurag-desai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f1110?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/anurag-desai-a37a35333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:anuragdesai.work@gmail.com"><img src="https://img.shields.io/badge/Email-2F6B3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
