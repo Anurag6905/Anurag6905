@@ -34,20 +34,6 @@ I'm an undergrad at IIT Bombay, mostly into product. I like being the person who
   <li>Traced a 47% drop-off in a four-stage funnel and recommended fixes that lifted conversion by 29%.</li>
 </ul>
 
-<h3>Web Convener &nbsp;·&nbsp; Institute Technical Council, IIT Bombay</h3>
-<p><sub>Apr 2025 – now</sub></p>
-<ul>
-  <li>Build and maintain the web platforms used by 15,000+ students and faculty across the council's clubs and teams.</li>
-  <li>Designed and taught WebCraft, a web development course for 60+ students, and ran workshops for 1,000+ first-years.</li>
-</ul>
-
-<h3>Co-founder & CMO &nbsp;·&nbsp; The Catalyst Project</h3>
-<p><sub>Jan 2025 – Apr 2026</sub></p>
-<ul>
-  <li>Started an edtech platform that pairs students with IIT mentors, and grew it to 5K+ students across 20+ states with 70%+ retention.</li>
-  <li>Reached ₹3.5L+ in year-one revenue through a referral model with near-zero acquisition cost, and pitched it on Shark Tank India, Season 5.</li>
-</ul>
-
 <h2>Projects</h2>
 
 <h3><a href="https://github.com/Anurag6905/bharat_bricks">Fraud Lens</a></h3>
