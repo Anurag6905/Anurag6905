@@ -1,7 +1,7 @@
 <h1 align="center">Anurag Desai</h1>
 
 <p align="center">
-  <a href="https://anurag-desai.netlify.app">
+  <a href="https://anurag-desai.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=2F6B3F&center=true&vCenter=true&width=640&lines=Product+%26+Strategy%2C+backed+by+code;PM+Intern+%40+FeeOnly+Investment+Advisors;Building+RAG+agents+and+ML+systems" alt="Product & Strategy, backed by code">
   </a>
 </p>
